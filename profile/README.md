@@ -10,7 +10,8 @@ Volstora designs and builds tailored energy storage systems from cell to system,
 
 
 ## Contact
-<https://volstora.com>
+**Website:**<https://volstora.com>
 
 **Phone:** +31 (0) 2709 3414
+
 **Email:** hello@volstora.com
